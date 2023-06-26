@@ -1,0 +1,17 @@
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\bin\Debug\net6.0\ExcelPopulate.exe
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\bin\Debug\net6.0\ExcelPopulate.deps.json
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\bin\Debug\net6.0\ExcelPopulate.runtimeconfig.json
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\bin\Debug\net6.0\ExcelPopulate.dll
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\bin\Debug\net6.0\ExcelPopulate.pdb
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.csproj.AssemblyReference.cache
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.csproj.ResolveComReference.cache
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.AssemblyInfoInputs.cache
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.AssemblyInfo.cs
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.csproj.CoreCompileInputs.cache
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.dll
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\refint\ExcelPopulate.dll
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.pdb
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ExcelPopulate.genruntimeconfig.cache
+C:\Users\EUGENE\source\repos\ExcelPopulate\ExcelPopulate\obj\Debug\net6.0\ref\ExcelPopulate.dll
